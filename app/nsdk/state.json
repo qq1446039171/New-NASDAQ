@@ -116,19 +116,19 @@
       "name": "纳指100（NDX）",
       "price": 27656,
       "pct": -0.1884,
-      "high1y": 27783,
-      "high1yDay": "2026-05-01",
+      "high1y": 27815,
+      "high1yDay": "2026-05-04",
       "_rawPrice": 672.88,
-      "_rawHigh": 675.97,
-      "drawdownPct": 0.46
+      "_rawHigh": 676.73,
+      "drawdownPct": 0.57
     },
     "buy": {
       "code": "513100",
-      "name": "纳指ETF国泰",
-      "price": 1.959,
-      "pct": -0.15
+      "name": "纳指ETF",
+      "price": null,
+      "pct": null
     },
-    "at": "2026-05-05T10:18:51.579Z"
+    "at": "2026-05-05T11:44:31.190Z"
   },
   "freeze": {
     "active": false,
